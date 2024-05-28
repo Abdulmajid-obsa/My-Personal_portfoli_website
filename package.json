@@ -1,0 +1,22 @@
+{
+  "name": "abdu-move-center",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "nodemon": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "bootswatch": "^5.3.2",
+    "express": "^4.18.2",
+    "font-awesome": "^4.7.0",
+    "hbs": "^4.2.0",
+    "mongoose": "^8.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
